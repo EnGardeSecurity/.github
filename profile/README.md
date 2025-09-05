@@ -1,5 +1,5 @@
-![ICS Range – dark mode](./images/icsrange-dark.svg#gh-dark-mode-only)
-![ICS Range – light mode](./images/icsrange-light.svg#gh-light-mode-only)
+![ICS Range – dark mode](./images/icsrange-light.svg#gh-dark-mode-only)
+![ICS Range – light mode](./images/icsrange-dark.svg#gh-light-mode-only)
 
 ---
 
