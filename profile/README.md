@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/icsrange-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./images/icsrange-light.svg">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/icsrange-dark.svg">
-</picture>
+![ICS Range – dark mode](./images/icsrange-dark.svg#gh-dark-mode-only)
+![ICS Range – light mode](./images/icsrange-light.svg#gh-light-mode-only)
 
 ---
 
